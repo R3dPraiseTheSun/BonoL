@@ -1,0 +1,390 @@
+# depslib dependency file v1.0
+1578573760 source:c:\users\harab\desktop\proiect_ip\bonolb\main.cpp
+	<graphics.h>
+	<iostream>
+	"Draw.hpp"
+
+1578591421 c:\users\harab\desktop\proiect_ip\bonolb\draw.hpp
+	<graphics.h>
+	<iostream>
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578598159 c:\users\harab\desktop\proiect_ip\bonolb\logics.hpp
+	"inGameHolder.hpp"
+	"Draw.hpp"
+
+1578599521 c:\users\harab\desktop\proiect_ip\bonolb\ingameholder.hpp
+	<iostream>
+	<graphics.h>
+	"Draw.hpp"
+	"Logics.hpp"
+	"Pozitii.hpp"
+	"MovePiece.hpp"
+
+1578589840 c:\users\harab\desktop\proiect_ip\bonolb\pozitii.hpp
+	<iostream>
+
+1578599568 c:\users\harab\desktop\proiect_ip\bonolb\movepiece.hpp
+	"Draw.hpp"
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578646561 source:c:\users\paula\onedrive\desktop\bonolb\main.cpp
+	<graphics.h>
+	<iostream>
+	"Draw.hpp"
+
+1578694921 c:\users\paula\onedrive\desktop\bonolb\draw.hpp
+	<graphics.h>
+	<iostream>
+	<string.h>
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578693250 c:\users\paula\onedrive\desktop\bonolb\logics.hpp
+	"inGameHolder.hpp"
+	"Draw.hpp"
+
+1578696851 c:\users\paula\onedrive\desktop\bonolb\ingameholder.hpp
+	<iostream>
+	<graphics.h>
+	"Draw.hpp"
+	"Logics.hpp"
+	"Pozitii.hpp"
+	"MovePiece.hpp"
+
+1578692396 c:\users\paula\onedrive\desktop\bonolb\pozitii.hpp
+	<iostream>
+
+1578695587 c:\users\paula\onedrive\desktop\bonolb\movepiece.hpp
+	"Draw.hpp"
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578646561 source:c:\users\paula\onedrive\desktop\bonol-ready\main.cpp
+	<graphics.h>
+	<iostream>
+	"Draw.hpp"
+
+1578765853 c:\users\paula\onedrive\desktop\bonol-ready\draw.hpp
+	<graphics.h>
+	<iostream>
+	<string.h>
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578765301 c:\users\paula\onedrive\desktop\bonol-ready\logics.hpp
+	"inGameHolder.hpp"
+	"Draw.hpp"
+
+1578765933 c:\users\paula\onedrive\desktop\bonol-ready\ingameholder.hpp
+	<iostream>
+	<graphics.h>
+	"Draw.hpp"
+	"Logics.hpp"
+	"Pozitii.hpp"
+	"MovePiece.hpp"
+	"AI.hpp"
+
+1578692396 c:\users\paula\onedrive\desktop\bonol-ready\pozitii.hpp
+	<iostream>
+
+1578765689 c:\users\paula\onedrive\desktop\bonol-ready\movepiece.hpp
+	"Draw.hpp"
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578766172 c:\users\paula\onedrive\desktop\bonol-ready\ai.hpp
+	"Pozitii.hpp"
+	"Logics.hpp"
+	"Draw.hpp"
+	"inGameHolder.hpp"
+
+1578646561 source:c:\users\harab\desktop\new folder3\bonol-ai\bonol-easy-ai-done\main.cpp
+	<graphics.h>
+	<iostream>
+	"Draw.hpp"
+
+1578774127 c:\users\harab\desktop\new folder3\bonol-ai\bonol-easy-ai-done\draw.hpp
+	<graphics.h>
+	<iostream>
+	<string.h>
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578774460 c:\users\harab\desktop\new folder3\bonol-ai\bonol-easy-ai-done\logics.hpp
+	"inGameHolder.hpp"
+	"Draw.hpp"
+
+1578774377 c:\users\harab\desktop\new folder3\bonol-ai\bonol-easy-ai-done\ingameholder.hpp
+	<iostream>
+	<graphics.h>
+	"Draw.hpp"
+	"Logics.hpp"
+	"Pozitii.hpp"
+	"MovePiece.hpp"
+	"AI.hpp"
+
+1578692396 c:\users\harab\desktop\new folder3\bonol-ai\bonol-easy-ai-done\pozitii.hpp
+	<iostream>
+
+1578774983 c:\users\harab\desktop\new folder3\bonol-ai\bonol-easy-ai-done\movepiece.hpp
+	"Draw.hpp"
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578766172 c:\users\harab\desktop\new folder3\bonol-ai\bonol-easy-ai-done\ai.hpp
+	"Pozitii.hpp"
+	"Logics.hpp"
+	"Draw.hpp"
+	"inGameHolder.hpp"
+
+1578646561 source:c:\users\harab\desktop\new folder3\bonol-ai\bonol-easy-ai-donev2\main.cpp
+	<graphics.h>
+	<iostream>
+	"Draw.hpp"
+
+1578774127 c:\users\harab\desktop\new folder3\bonol-ai\bonol-easy-ai-donev2\draw.hpp
+	<graphics.h>
+	<iostream>
+	<string.h>
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578831861 c:\users\harab\desktop\new folder3\bonol-ai\bonol-easy-ai-donev2\logics.hpp
+	"inGameHolder.hpp"
+	"Draw.hpp"
+
+1578774377 c:\users\harab\desktop\new folder3\bonol-ai\bonol-easy-ai-donev2\ingameholder.hpp
+	<iostream>
+	<graphics.h>
+	"Draw.hpp"
+	"Logics.hpp"
+	"Pozitii.hpp"
+	"MovePiece.hpp"
+	"AI.hpp"
+
+1578692396 c:\users\harab\desktop\new folder3\bonol-ai\bonol-easy-ai-donev2\pozitii.hpp
+	<iostream>
+
+1578832911 c:\users\harab\desktop\new folder3\bonol-ai\bonol-easy-ai-donev2\movepiece.hpp
+	"Draw.hpp"
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578766172 c:\users\harab\desktop\new folder3\bonol-ai\bonol-easy-ai-donev2\ai.hpp
+	"Pozitii.hpp"
+	"Logics.hpp"
+	"Draw.hpp"
+	"inGameHolder.hpp"
+
+1578646561 source:c:\users\paula\onedrive\desktop\bonol-easy-ai-donev2\main.cpp
+	<graphics.h>
+	<iostream>
+	"Draw.hpp"
+
+1578845216 c:\users\paula\onedrive\desktop\bonol-easy-ai-donev2\draw.hpp
+	<graphics.h>
+	<iostream>
+	<string.h>
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578843593 c:\users\paula\onedrive\desktop\bonol-easy-ai-donev2\logics.hpp
+	"inGameHolder.hpp"
+	"Draw.hpp"
+
+1578845220 c:\users\paula\onedrive\desktop\bonol-easy-ai-donev2\ingameholder.hpp
+	<iostream>
+	<graphics.h>
+	"Draw.hpp"
+	"Logics.hpp"
+	"Pozitii.hpp"
+	"MovePiece.hpp"
+	"AI.hpp"
+
+1578692396 c:\users\paula\onedrive\desktop\bonol-easy-ai-donev2\pozitii.hpp
+	<iostream>
+
+1578845117 c:\users\paula\onedrive\desktop\bonol-easy-ai-donev2\movepiece.hpp
+	"Draw.hpp"
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578844365 c:\users\paula\onedrive\desktop\bonol-easy-ai-donev2\ai.hpp
+	"Pozitii.hpp"
+	"Logics.hpp"
+	"Draw.hpp"
+	"inGameHolder.hpp"
+
+1578646561 source:c:\users\paula\onedrive\desktop\bonol-easy-ai-donev2 ai-fix\main.cpp
+	<graphics.h>
+	<iostream>
+	"Draw.hpp"
+
+1578849849 c:\users\paula\onedrive\desktop\bonol-easy-ai-donev2 ai-fix\draw.hpp
+	<graphics.h>
+	<iostream>
+	<string.h>
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578849835 c:\users\paula\onedrive\desktop\bonol-easy-ai-donev2 ai-fix\logics.hpp
+	"inGameHolder.hpp"
+	"Draw.hpp"
+
+1578846585 c:\users\paula\onedrive\desktop\bonol-easy-ai-donev2 ai-fix\ingameholder.hpp
+	<iostream>
+	<graphics.h>
+	"Draw.hpp"
+	"Logics.hpp"
+	"Pozitii.hpp"
+	"MovePiece.hpp"
+	"AI.hpp"
+
+1578692396 c:\users\paula\onedrive\desktop\bonol-easy-ai-donev2 ai-fix\pozitii.hpp
+	<iostream>
+
+1578849994 c:\users\paula\onedrive\desktop\bonol-easy-ai-donev2 ai-fix\movepiece.hpp
+	"Draw.hpp"
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578857820 c:\users\paula\onedrive\desktop\bonol-easy-ai-donev2 ai-fix\ai.hpp
+	"Pozitii.hpp"
+	"Logics.hpp"
+	"Draw.hpp"
+	"inGameHolder.hpp"
+
+1578646561 source:c:\users\paula\onedrive\desktop\bonol-bugged_hard_ai(need fixing)\main.cpp
+	<graphics.h>
+	<iostream>
+	"Draw.hpp"
+
+1578872803 c:\users\paula\onedrive\desktop\bonol-bugged_hard_ai(need fixing)\draw.hpp
+	<graphics.h>
+	<iostream>
+	<string.h>
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578872824 c:\users\paula\onedrive\desktop\bonol-bugged_hard_ai(need fixing)\logics.hpp
+	"inGameHolder.hpp"
+	"Draw.hpp"
+
+1578874293 c:\users\paula\onedrive\desktop\bonol-bugged_hard_ai(need fixing)\ingameholder.hpp
+	<iostream>
+	<graphics.h>
+	"Draw.hpp"
+	"Logics.hpp"
+	"Pozitii.hpp"
+	"MovePiece.hpp"
+	"AI.hpp"
+
+1578692396 c:\users\paula\onedrive\desktop\bonol-bugged_hard_ai(need fixing)\pozitii.hpp
+	<iostream>
+
+1578872879 c:\users\paula\onedrive\desktop\bonol-bugged_hard_ai(need fixing)\movepiece.hpp
+	"Draw.hpp"
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578865098 c:\users\paula\onedrive\desktop\bonol-bugged_hard_ai(need fixing)\ai.hpp
+	"Pozitii.hpp"
+	"Logics.hpp"
+	"Draw.hpp"
+	"inGameHolder.hpp"
+
+1579278107 source:c:\users\paula\onedrive\desktop\bonol\main.cpp
+	<graphics.h>
+	<iostream>
+	<windows.h>
+	"Draw.hpp"
+
+1579278107 c:\users\paula\onedrive\desktop\bonol\draw.hpp
+	<windows.h>
+	<ctime>
+	<graphics.h>
+	<iostream>
+	<fstream>
+	<string.h>
+	"Logics.hpp"
+	"inGameHolder.hpp"
+	<string.h>
+
+1579278107 c:\users\paula\onedrive\desktop\bonol\logics.hpp
+	"inGameHolder.hpp"
+	"Draw.hpp"
+
+1579278481 c:\users\paula\onedrive\desktop\bonol\ingameholder.hpp
+	<windows.h>
+	<iostream>
+	<graphics.h>
+	<string.h>
+	"Draw.hpp"
+	"Logics.hpp"
+	"Pozitii.hpp"
+	"MovePiece.hpp"
+	"AI.hpp"
+
+1578692396 c:\users\paula\onedrive\desktop\bonol\pozitii.hpp
+	<iostream>
+
+1579278107 c:\users\paula\onedrive\desktop\bonol\movepiece.hpp
+	"Draw.hpp"
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1579278107 c:\users\paula\onedrive\desktop\bonol\ai.hpp
+	"Pozitii.hpp"
+	"Logics.hpp"
+	"Draw.hpp"
+	"inGameHolder.hpp"
+
+1579016829 source:c:\users\harab\desktop\new folder\bonol\main.cpp
+	<graphics.h>
+	<iostream>
+	<windows.h>
+	"Draw.hpp"
+
+1579031922 c:\users\harab\desktop\new folder\bonol\draw.hpp
+	<windows.h>
+	<ctime>
+	<graphics.h>
+	<iostream>
+	<fstream>
+	<string.h>
+	"Logics.hpp"
+	"inGameHolder.hpp"
+	<string.h>
+
+1579024223 c:\users\harab\desktop\new folder\bonol\logics.hpp
+	"inGameHolder.hpp"
+	"Draw.hpp"
+
+1578998339 c:\users\harab\desktop\new folder\bonol\ingameholder.hpp
+	<windows.h>
+	<iostream>
+	<graphics.h>
+	<string.h>
+	"Draw.hpp"
+	"Logics.hpp"
+	"Pozitii.hpp"
+	"MovePiece.hpp"
+	"AI.hpp"
+
+1578692396 c:\users\harab\desktop\new folder\bonol\pozitii.hpp
+	<iostream>
+
+1578996694 c:\users\harab\desktop\new folder\bonol\movepiece.hpp
+	"Draw.hpp"
+	"Logics.hpp"
+	"inGameHolder.hpp"
+
+1578865098 c:\users\harab\desktop\new folder\bonol\ai.hpp
+	"Pozitii.hpp"
+	"Logics.hpp"
+	"Draw.hpp"
+	"inGameHolder.hpp"
+

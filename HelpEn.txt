@@ -1,0 +1,13 @@
+Movind the L shaped piece:
+	Double click for initializing the start position of the piece,
+then draw it on the board game with the cursor in the wanted position.
+To confirm, press left click.
+Moving the green piece:
+	Double click the piece, then double click again on the board game
+to place it in the wanted position.
+Rules:
+	On each turn, a player must first move their L piece, and then may
+optionally move one of the neutral pieces. The game is won by leaving
+the opponent unable to move their L piece to a new position.
+	The pieces can not overlep, and those L shaped most change their position until the end of each turn.
+When there is no change made in the allocated time, the opponent wins. 

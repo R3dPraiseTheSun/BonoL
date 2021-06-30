@@ -1,0 +1,17 @@
+Incepe
+Limba
+Iesire
+Inapoi
+Jucator vs calculator - usor
+Jucator vs calculator - avansat
+Jucator vs Jucator
+Jucator 1
+Jucator 2
+Sari peste
+Refa ultima mutare
+Romana
+Engleza
+Joaca din nou!
+Albastru a castigat!
+Rosu a castigat!
+Ajutor

@@ -1,0 +1,17 @@
+Start
+Language
+Exit
+Back
+Player vs Computer - Easy
+Player vs Computer - Hard
+Player vs Player
+Player 1
+Player 2
+Skip
+Undo
+Romanian
+English
+Rematch
+Blue Won!
+Red Won!
+Help

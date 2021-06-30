@@ -1,0 +1,15 @@
+Pentru a muta piesa in forma de L:
+       Dati dublu click pentru a initia pozitia de inceput a piesei,
+apoi desenati-o pe tabla de joc, cu ajutorul cursorului, in pozitia dorita.
+Pentru a confiram, apasati click.
+Pentru a muta piesa de culoare verde:
+	Dati dublu click pe aceasta, apoi din nou dublu click pe tabla de joc
+pentru a o plasa in pozitia dorita. 
+Reguli:
+	La fiecare runda, un jucator trebuie sa mute, mai intai, piesa in forma de L,
+iar mai apoi poate muta una din
+piesele neutre.
+	Jocul este castigat atunci cand oponentul nu mai are mutari disponibile.
+	Piesele nu se pot suprapune, iar cele in forma de L trebuie sa-si schimbe pozitia
+pana la finalul fiecarei runde.
+	Atunci cand nu se efectueaza nici o mutare in timpul alocat, oponentul castiga.
